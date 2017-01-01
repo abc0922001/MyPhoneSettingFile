@@ -357,23 +357,29 @@
     <family lang="zh-Hans">
 		<font weight="250" style="normal">NotoSansCJKtc-Thin.otf</font>
 		<font weight="300" style="normal">NotoSansCJKtc-Light.otf</font>
+		<font weight="350" style="normal">NotoSansCJKtc-DemiLight.otf</font>
         <font weight="400" style="normal">NotoSansCJKtc-Regular.otf</font>
 		<font weight="500" style="normal">NotoSansCJKtc-Medium.otf</font>
 		<font weight="700" style="normal">NotoSansCJKtc-Bold.otf</font>
+		<font weight="900" style="normal">NotoSansCJKtc-Black.otf</font>
     </family>
     <family lang="zh-Hant">
-    	<font weight="250" style="normal">NotoSansCJKtc-Thin.otf</font>
+		<font weight="250" style="normal">NotoSansCJKtc-Thin.otf</font>
 		<font weight="300" style="normal">NotoSansCJKtc-Light.otf</font>
+		<font weight="350" style="normal">NotoSansCJKtc-DemiLight.otf</font>
         <font weight="400" style="normal">NotoSansCJKtc-Regular.otf</font>
 		<font weight="500" style="normal">NotoSansCJKtc-Medium.otf</font>
 		<font weight="700" style="normal">NotoSansCJKtc-Bold.otf</font>
+		<font weight="900" style="normal">NotoSansCJKtc-Black.otf</font>
     </family>
     <family lang="ja">
-        <font weight="250" style="normal">NotoSansCJKtc-Thin.otf</font>
+		<font weight="250" style="normal">NotoSansCJKtc-Thin.otf</font>
 		<font weight="300" style="normal">NotoSansCJKtc-Light.otf</font>
+		<font weight="350" style="normal">NotoSansCJKtc-DemiLight.otf</font>
         <font weight="400" style="normal">NotoSansCJKtc-Regular.otf</font>
 		<font weight="500" style="normal">NotoSansCJKtc-Medium.otf</font>
 		<font weight="700" style="normal">NotoSansCJKtc-Bold.otf</font>
+		<font weight="900" style="normal">NotoSansCJKtc-Black.otf</font>
     </family>
     <family lang="ko">
 		<font weight="400" style="normal">NotoSansCJKtc-Regular.otf</font>
