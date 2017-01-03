@@ -100,14 +100,14 @@ case "$target" in
                  echo 2457600                              > /sys/devices/system/cpu/cpu1/cpufreq/scaling_max_freq
                  echo 2457600                              > /sys/devices/system/cpu/cpu2/cpufreq/scaling_max_freq
                  echo 2457600                              > /sys/devices/system/cpu/cpu3/cpufreq/scaling_max_freq
-                 echo "20000 1400000:40000 1700000:20000"  > /sys/devices/system/cpu/cpufreq/interactive/above_hispeed_delay
-                 echo 90                                   > /sys/devices/system/cpu/cpufreq/interactive/go_hispeed_load
-                 echo 1190400                              > /sys/devices/system/cpu/cpufreq/interactive/hispeed_freq
-                 echo "85 1500000:99"                      > /sys/devices/system/cpu/cpufreq/interactive/target_loads
+				 echo "20000 1400000:40000 2000000:20000"  > /sys/devices/system/cpu/cpufreq/interactive/above_hispeed_delay
+                 echo 78                                   > /sys/devices/system/cpu/cpufreq/interactive/go_hispeed_load
+                 echo 1267200                              > /sys/devices/system/cpu/cpufreq/interactive/hispeed_freq
+                 echo "85 1400000:90 1900000:98"           > /sys/devices/system/cpu/cpufreq/interactive/target_loads
                  echo 40000                                > /sys/devices/system/cpu/cpufreq/interactive/min_sample_time
                  echo 20                                   > /sys/module/cpu_boost/parameters/boost_ms
-                 echo 1497600                              > /sys/module/cpu_boost/parameters/sync_threshold
-                 echo 1190400                              > /sys/module/cpu_boost/parameters/input_boost_freq
+                 echo 1958400                              > /sys/module/cpu_boost/parameters/sync_threshold
+                 echo 1497600                              > /sys/module/cpu_boost/parameters/input_boost_freq
                  echo 40                                   > /sys/module/cpu_boost/parameters/input_boost_ms
                  echo 255                                  > /sys/class/leds/lcd-backlight/max_brightness
                  echo 578000000                            > /sys/class/kgsl/kgsl-3d0/max_gpuclk
