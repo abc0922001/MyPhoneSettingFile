@@ -113,7 +113,14 @@ case "$target" in
                  echo 578000000                            > /sys/class/kgsl/kgsl-3d0/max_gpuclk
                  echo msm-adreno-tz                        > /sys/class/kgsl/kgsl-3d0/devfreq/governor
                  echo "cpubw_hwmon"                        > $dev_governor
-                 start mpdecision
+                 stop mpdecision
+                 sleep 1
+                 echo 1                                    > /sys/devices/system/cpu/cpu1/online
+                 echo 1                                    > /sys/devices/system/cpu/cpu2/online
+                 echo 1                                    > /sys/devices/system/cpu/cpu3/online
+                 echo 1                                    > /sys/devices/system/cpu/cpu1/online
+                 echo 1                                    > /sys/devices/system/cpu/cpu2/online
+                 echo 1                                    > /sys/devices/system/cpu/cpu3/online
              ;;
         esac
         ;;
