@@ -406,24 +406,29 @@
     </fileset>
   </family>
   <family>
-    <fileset>
-      <file lang="zh-Hans">NotoSansSC-Regular.otf</file>
-    </fileset>
-  </family>
-  <family>
-    <fileset>
-      <file lang="zh-Hant">NotoSansTC-Regular.otf</file>
-    </fileset>
-  </family>
-  <family>
-    <fileset>
-      <file lang="ja">NotoSansJP-Regular.otf</file>
-    </fileset>
-  </family>
-  <family>
-    <fileset>
-      <file lang="ko">NotoSansKR-Regular.otf</file>
-    </fileset>
+    <family>
+      <fileset>
+        <file lang="zh-Hant">NotoSansTC-Regular.otf</file>
+        <file lang="zh-Hant">NotoSansTC-Bold.otf</file>
+      </fileset>
+    </family>
+    <family>
+      <fileset>
+        <file lang="zh-Hans">NotoSansSC-Regular.otf</file>
+        <file lang="zh-Hans">NotoSansSC-Bold.otf</file>
+      </fileset>
+    </family>
+    <family>
+      <fileset>
+        <file lang="ja">NotoSansJP-Regular.otf</file>
+        <file lang="ja">NotoSansJP-Bold.otf</file>
+      </fileset>
+    </family>
+    <family>
+      <fileset>
+        <file lang="ko">NotoSansKR-Regular.otf</file>
+      </fileset>
+    </family>
   </family>
   <family>
     <fileset>
