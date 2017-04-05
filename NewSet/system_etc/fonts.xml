@@ -359,33 +359,27 @@
     <font weight="300" style="normal">NotoSansTC-Light.otf</font>
     <font weight="350" style="normal">NotoSansTC-DemiLight.otf</font>
     <font weight="400" style="normal">NotoSansTC-Regular.otf</font>
-    <font weight="400" style="mono">NotoSansMonoCJKtc-Regular.otf	</font>
     <font weight="500" style="normal">NotoSansTC-Medium.otf</font>
     <font weight="900" style="normal">NotoSansTC-Black.otf</font>
     <font weight="700" style="normal">NotoSansTC-Bold.otf</font>
-    <font weight="700" style="mono">NotoSansMonoCJKtc-Bold.otf</font>
   </family>
   <family lang="zh-Hans">
-    <font weight="100" style="normal">NotoSansSC-Thin.otf</font>
-    <font weight="300" style="normal">NotoSansSC-Light.otf</font>
-    <font weight="350" style="normal">NotoSansSC-DemiLight.otf</font>
-    <font weight="400" style="normal">NotoSansSC-Regular.otf</font>
-    <font weight="400" style="mono">NotoSansMonoCJKsc-Regular.otf	</font>
-    <font weight="500" style="normal">NotoSansSC-Medium.otf</font>
-    <font weight="900" style="normal">NotoSansSC-Black.otf</font>
-    <font weight="700" style="normal">NotoSansSC-Bold.otf</font>
-    <font weight="700" style="mono">NotoSansMonoCJKsc-Bold.otf</font>
+    <font weight="100" style="normal">NotoSansTC-Thin.otf</font>
+    <font weight="300" style="normal">NotoSansTC-Light.otf</font>
+    <font weight="350" style="normal">NotoSansTC-DemiLight.otf</font>
+    <font weight="400" style="normal">NotoSansTC-Regular.otf</font>
+    <font weight="500" style="normal">NotoSansTC-Medium.otf</font>
+    <font weight="900" style="normal">NotoSansTC-Black.otf</font>
+    <font weight="700" style="normal">NotoSansTC-Bold.otf</font>
   </family>
   <family lang="ja">
-    <font weight="100" style="normal">NotoSansJP-Thin.otf</font>
-    <font weight="300" style="normal">NotoSansJP-Light.otf</font>
-    <font weight="350" style="normal">NotoSansJP-DemiLight.otf</font>
-    <font weight="400" style="normal">NotoSansJP-Regular.otf</font>
-    <font weight="400" style="mono">NotoSansMonoCJKjp-Regular.otf</font>
-    <font weight="500" style="normal">NotoSansJP-Medium.otf</font>
-    <font weight="900" style="normal">NotoSansJP-Black.otf</font>
-    <font weight="700" style="normal">NotoSansJP-Bold.otf</font>
-    <font weight="700" style="mono">NotoSansMonoCJKjp-Bold.otf</font>
+    <font weight="100" style="normal">NotoSansTC-Thin.otf</font>
+    <font weight="300" style="normal">NotoSansTC-Light.otf</font>
+    <font weight="350" style="normal">NotoSansTC-DemiLight.otf</font>
+    <font weight="400" style="normal">NotoSansTC-Regular.otf</font>
+    <font weight="500" style="normal">NotoSansTC-Medium.otf</font>
+    <font weight="900" style="normal">NotoSansTC-Black.otf</font>
+    <font weight="700" style="normal">NotoSansTC-Bold.otf</font>
   </family>
   <family lang="ko">
     <font weight="400" style="normal">NotoSansKR-Regular.otf</font>
