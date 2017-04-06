@@ -94,21 +94,19 @@
 
     <!-- MIUI ADD: Begin /-->
     <family name="miui">
-        <font weight="100" style="normal">Miui-Thin.ttf</font>
-        <font weight="300" style="normal">Miui-Light.ttf</font>
-        <font weight="400" style="normal">Miui-Regular.ttf</font>
-        <font weight="700" style="normal">Miui-Bold.ttf</font>
+        <font weight="400" style="normal" index="3">NotoSansCJK-Regular.ttc</font>
+        <font weight="700" style="normal" index="3">NotoSansCJK-Bold.ttc</font>
     </family>
 
     <alias name="miui-thin" to="miui" weight="100" />
     <alias name="miui-light" to="miui" weight="300" />
 
     <family name="miuiex">
-        <font weight="400" style="normal">MiuiEx-Regular.ttf</font>
-        <font weight="700" style="normal">MiuiEx-Bold.ttf</font>
+        <font weight="400" style="normal" index="3">NotoSansCJK-Regular.ttc</font>
+        <font weight="700" style="normal" index="3">NotoSansCJK-Bold.ttc</font>
     </family>
     <family name="miuiex-light">
-        <font weight="300" style="normal">MiuiEx-Light.ttf</font>
+        <font weight="300" style="normal" index="3">NotoSansCJK-Light.ttc</font>
     </family>
     <!-- MIUI ADD: End /-->
 
