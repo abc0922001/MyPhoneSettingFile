@@ -94,8 +94,6 @@
 
   <!-- MIUI ADD: Begin /-->
   <family name="miui">
-    <font weight="100" style="normal">NotoSansTC-Thin.otf</font>
-    <font weight="300" style="normal">NotoSansTC-Light.otf</font>
     <font weight="400" style="normal">NotoSansTC-Regular.otf</font>
     <font weight="700" style="normal">NotoSansTC-Bold.otf</font>
   </family>
@@ -368,7 +366,7 @@
     <font weight="300" style="normal">NotoSansTC-Light.otf</font>
     <font weight="350" style="normal">NotoSansTC-DemiLight.otf</font>
     <font weight="400" style="normal">NotoSansSC-Regular.otf</font>
-    <font weight="500" style="normal">NotoSansTC-Medium.otf</font>
+    <font weight="500" style="normal">NotoSansSC-Medium.otf</font>
     <font weight="900" style="normal">NotoSansTC-Black.otf</font>
     <font weight="700" style="normal">NotoSansSC-Bold.otf</font>
   </family>
